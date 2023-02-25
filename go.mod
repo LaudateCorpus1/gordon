@@ -14,5 +14,5 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/moby/term v0.0.0-20200611042045-63b9a826fb74
 	github.com/urfave/cli v1.22.4
-	golang.org/x/sys v0.0.0-20200610111108-226ff32320da // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
